@@ -30,12 +30,11 @@ Before running the automated tests, make sure you have the following installed:
 
 The test scenarios cover the following functionalities:
 
-- Home Page Navigation
 - Product Search
-- Shopping Cart Management
-- Checkout Process
-- User Authentication
-- User Account Management
+- Sign in 
+- Orders
+- Changing Pincode
+- Adding product to cart
 
 Feel free to explore and modify the test scenarios according to your testing needs.
 
